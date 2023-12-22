@@ -1,4 +1,5 @@
-![image](https://github.com/IgnacioSainzMaza/IgnacioSainzMaza/assets/79744800/d94288e1-5f41-4257-9d58-86aa642b88f6)
+![gif](https://github.com/IgnacioSainzMaza/IgnacioSainzMaza/assets/79744800/66655e15-267e-45cf-a708-df26c92554a1)
+
 
 ### ¡Hola!👋
 Bienvenido a mi perfil. Soy Ignacio Sainz de la Maza Martín.
