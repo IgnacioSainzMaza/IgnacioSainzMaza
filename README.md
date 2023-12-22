@@ -1,4 +1,4 @@
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/IgnacioSainzMaza/IgnacioSainzMaza/blob/main/gifm.gif))
+![](https://github.com/IgnacioSainzMaza/IgnacioSainzMaza/blob/main/gifm.gif)
 
 ### ¡Hola!👋
 Bienvenido a mi perfil. Soy Ignacio Sainz de la Maza Martín.
@@ -18,7 +18,7 @@ También tengo experiencia trabajando con motores gráficos de desarrollo como s
 Si quieres contactar conmigo puedes escribirme un correo a isainzmaza.3@gmail.com y yo trataré de responderte lo antes posible.
 
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/IgnacioSainzMaza/IgnacioSainzMaza/blob/main/gifmusi.gif))
+![](https://github.com/IgnacioSainzMaza/IgnacioSainzMaza/blob/main/gifmusi.gif)
 
 
 <!--
